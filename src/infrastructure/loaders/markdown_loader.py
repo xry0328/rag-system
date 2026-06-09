@@ -1,0 +1,9 @@
+from __future__ import annotations
+
+from pathlib import Path
+
+
+class MarkdownLoader:
+    def load(self, path: Path) -> str:
+        return path.read_text(encoding="utf-8")
+
