@@ -20,3 +20,12 @@ streamlit run app.py
 
 Set `OPENAI_API_KEY` in `.env` before using OpenAI embeddings.
 
+## Windows App Packaging
+
+Build a folder-based Windows desktop app:
+
+```powershell
+.\scripts\build_windows_app.ps1
+```
+
+See `APP_PACKAGING.md` for details.

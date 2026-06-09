@@ -3,6 +3,9 @@
 __pycache__/
 .pytest_cache/
 .streamlit/secrets.toml
+build/
+dist/
+*.spec~
 
 data/uploads/
 data/chroma/

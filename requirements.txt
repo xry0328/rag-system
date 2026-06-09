@@ -7,3 +7,4 @@ langchain-core>=0.2.35
 langchain-openai>=0.1.22
 langchain-ollama>=0.1.1
 pytest>=8.3.2
+pyinstaller>=6.10.0
